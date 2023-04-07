@@ -1,0 +1,18 @@
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.csproj.AssemblyReference.cache
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.AssemblyInfoInputs.cache
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.AssemblyInfo.cs
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.csproj.CoreCompileInputs.cache
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\I01 - Creo que necesito un préstamo.exe
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\I01 - Creo que necesito un préstamo.deps.json
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\I01 - Creo que necesito un préstamo.runtimeconfig.json
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\I01 - Creo que necesito un préstamo.dll
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\I01 - Creo que necesito un préstamo.pdb
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Entidades.dll
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\bin\Debug\net6.0\Entidades.pdb
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.csproj.CopyComplete
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.dll
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\refint\I01 - Creo que necesito un préstamo.dll
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.pdb
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\I01 - Creo que necesito un préstamo.genruntimeconfig.cache
+C:\Users\barbu\source\repos\Programacion orientada a objetos\I01 - Creo que necesito un préstamo\I01 - Creo que necesito un préstamo\obj\Debug\net6.0\ref\I01 - Creo que necesito un préstamo.dll

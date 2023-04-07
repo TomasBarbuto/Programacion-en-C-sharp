@@ -5,9 +5,9 @@ namespace Entidades
     public class Cuenta
     {
         private string titular;
-        private int cantidad;
+        private float cantidad;
 
-        public Cuenta(string titular, int cantidad)
+        public Cuenta(string titular, float cantidad)
         {
             this.titular = titular;
             this.cantidad = cantidad;
@@ -21,7 +21,7 @@ namespace Entidades
             }
         }
 
-        public int Cantidad
+        public float Cantidad
         {
             get
             {
@@ -29,7 +29,7 @@ namespace Entidades
             }
         }
 
-        public string Mostrar(string titular, int cantidad)
+        public override string ToString()
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("");
@@ -37,6 +37,19 @@ namespace Entidades
             sb.AppendLine($"***La cuenta tiene {this.cantidad}***");
 
             return sb.ToString();
+        }
+
+        public void Ingresar(float ingreso)
+        {
+            if (cantidad > 0)
+            {
+                this.cantidad += ingreso;
+            }
+        }
+
+        public void Retirar(float retiro)
+        {
+            this.cantidad -= retiro;  
         }
     }
 }

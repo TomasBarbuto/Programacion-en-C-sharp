@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jonat\\source\\repos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj": {}
+    "C:\\Users\\barbu\\source\\repos\\Programacion orientada a objetos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jonat\\source\\repos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj": {
+    "C:\\Users\\barbu\\source\\repos\\Programacion orientada a objetos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj",
+        "projectUniqueName": "C:\\Users\\barbu\\source\\repos\\Programacion orientada a objetos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj",
         "projectName": "Entidades",
-        "projectPath": "C:\\Users\\jonat\\source\\repos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj",
-        "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jonat\\source\\repos\\I01 - Creo que necesito un préstamo\\Entidades\\obj\\",
+        "projectPath": "C:\\Users\\barbu\\source\\repos\\Programacion orientada a objetos\\I01 - Creo que necesito un préstamo\\Entidades\\Entidades.csproj",
+        "packagesPath": "C:\\Users\\barbu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\barbu\\source\\repos\\Programacion orientada a objetos\\I01 - Creo que necesito un préstamo\\Entidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\barbu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
