@@ -1,0 +1,18 @@
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\I02 - Desea continuar.exe
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\I02 - Desea continuar.deps.json
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\I02 - Desea continuar.runtimeconfig.json
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\I02 - Desea continuar.dll
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\I02 - Desea continuar.pdb
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\Entidades.dll
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\bin\Debug\net6.0\Entidades.pdb
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.csproj.CopyComplete
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.dll
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\refint\I02 - Desea continuar.dll
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.pdb
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\I02 - Desea continuar.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I02 - Desea continuar\I02 - Desea continuar\obj\Debug\net6.0\ref\I02 - Desea continuar.dll

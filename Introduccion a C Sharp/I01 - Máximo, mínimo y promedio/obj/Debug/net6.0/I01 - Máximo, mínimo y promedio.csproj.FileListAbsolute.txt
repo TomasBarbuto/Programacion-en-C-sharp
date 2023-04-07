@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\I01 - Máximo, mínimo y promedio.exe
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\I01 - Máximo, mínimo y promedio.deps.json
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\I01 - Máximo, mínimo y promedio.runtimeconfig.json
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\I01 - Máximo, mínimo y promedio.dll
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\I01 - Máximo, mínimo y promedio.pdb
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.dll
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\refint\I01 - Máximo, mínimo y promedio.dll
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.pdb
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\I01 - Máximo, mínimo y promedio.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\ref\I01 - Máximo, mínimo y promedio.dll

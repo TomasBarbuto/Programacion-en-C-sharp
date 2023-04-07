@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "I09 - Dibujando un triángulo equilátero/1.0.0": {
+        "runtime": {
+          "I09 - Dibujando un triángulo equilátero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "I09 - Dibujando un triángulo equilátero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

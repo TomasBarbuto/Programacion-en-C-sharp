@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\bin\Debug\net6.0\A01 - Calcular un factorial.exe
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\bin\Debug\net6.0\A01 - Calcular un factorial.deps.json
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\bin\Debug\net6.0\A01 - Calcular un factorial.runtimeconfig.json
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\bin\Debug\net6.0\A01 - Calcular un factorial.dll
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\bin\Debug\net6.0\A01 - Calcular un factorial.pdb
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.AssemblyInfo.cs
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.dll
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\refint\A01 - Calcular un factorial.dll
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.pdb
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\A01 - Calcular un factorial.genruntimeconfig.cache
+C:\Users\jonat\source\repos\A01 - Calcular un factorial\A01 - Calcular un factorial\obj\Debug\net6.0\ref\A01 - Calcular un factorial.dll

@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\bin\Debug\net6.0\I05 - Tirame un centro.exe
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\bin\Debug\net6.0\I05 - Tirame un centro.deps.json
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\bin\Debug\net6.0\I05 - Tirame un centro.runtimeconfig.json
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\bin\Debug\net6.0\I05 - Tirame un centro.dll
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\bin\Debug\net6.0\I05 - Tirame un centro.pdb
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.dll
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\refint\I05 - Tirame un centro.dll
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.pdb
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\I05 - Tirame un centro.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I05 - Tirame un centro\I05 - Tirame un centro\obj\Debug\net6.0\ref\I05 - Tirame un centro.dll

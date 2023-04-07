@@ -1,0 +1,18 @@
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\I03 - Conversor binario.exe
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\I03 - Conversor binario.deps.json
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\I03 - Conversor binario.runtimeconfig.json
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\I03 - Conversor binario.dll
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\I03 - Conversor binario.pdb
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\Entidades.dll
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\bin\Debug\net6.0\Entidades.pdb
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.csproj.CopyComplete
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.dll
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\refint\I03 - Conversor binario.dll
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.pdb
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\I03 - Conversor binario.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I03 - Conversor binario\I03 - Conversor binario\obj\Debug\net6.0\ref\I03 - Conversor binario.dll

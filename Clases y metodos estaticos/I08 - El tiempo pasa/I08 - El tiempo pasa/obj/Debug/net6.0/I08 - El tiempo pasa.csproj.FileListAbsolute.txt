@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\bin\Debug\net6.0\I08 - El tiempo pasa.exe
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\bin\Debug\net6.0\I08 - El tiempo pasa.deps.json
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\bin\Debug\net6.0\I08 - El tiempo pasa.runtimeconfig.json
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\bin\Debug\net6.0\I08 - El tiempo pasa.dll
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\bin\Debug\net6.0\I08 - El tiempo pasa.pdb
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.dll
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\refint\I08 - El tiempo pasa.dll
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.pdb
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\I08 - El tiempo pasa.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I08 - El tiempo pasa\I08 - El tiempo pasa\obj\Debug\net6.0\ref\I08 - El tiempo pasa.dll
