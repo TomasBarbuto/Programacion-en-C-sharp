@@ -1,26 +1,45 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Geometria/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Geometria.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Geometria.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Geometria/1.0.0": {
+      "type": "project",
+      "path": "../Geometria/Geometria.csproj",
+      "msbuildProject": "../Geometria/Geometria.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Geometria >= 1.0.0"
+    ]
   },
   "packageFolders": {
-    "C:\\Users\\jonat\\.nuget\\packages\\": {}
+    "C:\\Users\\RYZEN\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jonat\\source\\repos\\I05 - Prueba de geometría\\I05 - Prueba de geometría\\I05 - Prueba de geometría.csproj",
+      "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\I05 - Prueba de geometría\\I05 - Prueba de geometría\\I05 - Prueba de geometría.csproj",
       "projectName": "I05 - Prueba de geometría",
-      "projectPath": "C:\\Users\\jonat\\source\\repos\\I05 - Prueba de geometría\\I05 - Prueba de geometría\\I05 - Prueba de geometría.csproj",
-      "packagesPath": "C:\\Users\\jonat\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jonat\\source\\repos\\I05 - Prueba de geometría\\I05 - Prueba de geometría\\obj\\",
+      "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\I05 - Prueba de geometría\\I05 - Prueba de geometría\\I05 - Prueba de geometría.csproj",
+      "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\I05 - Prueba de geometría\\I05 - Prueba de geometría\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jonat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\I05 - Prueba de geometría\\Geometria\\Geometria.csproj": {
+              "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\I05 - Prueba de geometría\\Geometria\\Geometria.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

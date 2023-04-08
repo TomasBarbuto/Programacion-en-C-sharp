@@ -1,0 +1,18 @@
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.exe
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.deps.json
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.runtimeconfig.json
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\I05 - Prueba de geometría.pdb
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\Geometria.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\bin\Debug\net6.0\Geometria.pdb
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.csproj.AssemblyReference.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.AssemblyInfoInputs.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.AssemblyInfo.cs
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\refint\I05 - Prueba de geometría.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.pdb
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\I05 - Prueba de geometría.genruntimeconfig.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I05 - Prueba de geometría\I05 - Prueba de geometría\obj\Debug\net6.0\ref\I05 - Prueba de geometría.dll
