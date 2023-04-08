@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\Ejercicio1_2023.exe
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\Ejercicio1_2023.deps.json
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\Ejercicio1_2023.runtimeconfig.json
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\Ejercicio1_2023.dll
+C:\Users\jonat\source\repos\Ejercicio1_2023\bin\Debug\net6.0\Ejercicio1_2023.pdb
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.AssemblyInfo.cs
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.dll
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\refint\Ejercicio1_2023.dll
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.pdb
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\Ejercicio1_2023.genruntimeconfig.cache
+C:\Users\jonat\source\repos\Ejercicio1_2023\obj\Debug\net6.0\ref\Ejercicio1_2023.dll

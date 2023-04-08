@@ -1,0 +1,18 @@
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\I04 - La calculadora.exe
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\I04 - La calculadora.deps.json
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\I04 - La calculadora.runtimeconfig.json
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\I04 - La calculadora.dll
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\I04 - La calculadora.pdb
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\Entidades.dll
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\bin\Debug\net6.0\Entidades.pdb
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.csproj.CopyComplete
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.dll
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\refint\I04 - La calculadora.dll
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.pdb
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\I04 - La calculadora.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I04 - La calculadora\I04 - La calculadora\obj\Debug\net6.0\ref\I04 - La calculadora.dll

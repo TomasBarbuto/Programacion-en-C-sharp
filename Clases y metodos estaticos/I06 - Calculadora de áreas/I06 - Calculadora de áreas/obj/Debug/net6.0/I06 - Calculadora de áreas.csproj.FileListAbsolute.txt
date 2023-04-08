@@ -1,0 +1,18 @@
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\I06 - Calculadora de áreas.exe
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\I06 - Calculadora de áreas.deps.json
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\I06 - Calculadora de áreas.runtimeconfig.json
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\I06 - Calculadora de áreas.dll
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\I06 - Calculadora de áreas.pdb
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.dll
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\refint\I06 - Calculadora de áreas.dll
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.pdb
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\ref\I06 - Calculadora de áreas.dll
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\Entidades.dll
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\bin\Debug\net6.0\Entidades.pdb
+C:\Users\jonat\source\repos\I06 - Calculadora de áreas\I06 - Calculadora de áreas\obj\Debug\net6.0\I06 - Calculadora de áreas.csproj.CopyComplete
