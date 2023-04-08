@@ -1,0 +1,18 @@
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\I04 - Invento argentino.exe
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\I04 - Invento argentino.deps.json
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\I04 - Invento argentino.runtimeconfig.json
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\I04 - Invento argentino.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\I04 - Invento argentino.pdb
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\Entidades.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\bin\Debug\net6.0\Entidades.pdb
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.csproj.AssemblyReference.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.AssemblyInfoInputs.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.AssemblyInfo.cs
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\refint\I04 - Invento argentino.dll
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.pdb
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\I04 - Invento argentino.genruntimeconfig.cache
+C:\Users\RYZEN\source\repos\Programacion orientada a objetos\I04 - Invento argentino\I04 - Invento argentino\obj\Debug\net6.0\ref\I04 - Invento argentino.dll
