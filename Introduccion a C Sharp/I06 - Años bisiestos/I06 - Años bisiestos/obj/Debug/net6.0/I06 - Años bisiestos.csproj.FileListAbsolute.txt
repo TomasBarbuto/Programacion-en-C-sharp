@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\bin\Debug\net6.0\I06 - Años bisiestos.exe
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\bin\Debug\net6.0\I06 - Años bisiestos.deps.json
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\bin\Debug\net6.0\I06 - Años bisiestos.runtimeconfig.json
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\bin\Debug\net6.0\I06 - Años bisiestos.dll
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\bin\Debug\net6.0\I06 - Años bisiestos.pdb
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.AssemblyInfo.cs
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.dll
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\refint\I06 - Años bisiestos.dll
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.pdb
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\I06 - Años bisiestos.genruntimeconfig.cache
+C:\Users\jonat\source\repos\I06 - Años bisiestos\I06 - Años bisiestos\obj\Debug\net6.0\ref\I06 - Años bisiestos.dll
