@@ -2,13 +2,14 @@
 {
     public class Conductor
     {
-        private string nombre;
-        private int[] kmPorDia;
 
-        public Conductor(string nombre, int[] kmPorDia)
-        {
-            this.nombre = nombre;
-            this.kmPorDia = kmPorDia;
+        private string nombre;
+        private int[] kmPorDia = new int[7];
+
+        public Conductor(string nombre)
+        { 
+            this.nombre = nombre;   
         }
+
     }
 }

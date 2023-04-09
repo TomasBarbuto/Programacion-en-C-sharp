@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A01 - Sistema de auto-navegación\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A01 - Sistema de auto-navegación\\Entidades\\Entidades.csproj",
+      "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A01 - Sistema de auto-navegación\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",

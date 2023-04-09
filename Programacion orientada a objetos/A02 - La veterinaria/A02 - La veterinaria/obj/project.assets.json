@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net6.0": {
+      "Entidades/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Entidades.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Entidades.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Entidades/1.0.0": {
+      "type": "project",
+      "path": "../Entidades/Entidades.csproj",
+      "msbuildProject": "../Entidades/Entidades.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net6.0": [
+      "Entidades >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\RYZEN\\.nuget\\packages\\": {}
@@ -13,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A01 - Sistema de auto-navegación\\Entidades\\Entidades.csproj",
-      "projectName": "Entidades",
-      "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A01 - Sistema de auto-navegación\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\A02 - La veterinaria\\A02 - La veterinaria.csproj",
+      "projectName": "A02 - La veterinaria",
+      "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\A02 - La veterinaria\\A02 - La veterinaria.csproj",
       "packagesPath": "C:\\Users\\RYZEN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A01 - Sistema de auto-navegación\\Entidades\\obj\\",
+      "outputPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\A02 - La veterinaria\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RYZEN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +52,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\Entidades\\Entidades.csproj": {
+              "projectPath": "C:\\Users\\RYZEN\\source\\repos\\Programacion orientada a objetos\\A02 - La veterinaria\\Entidades\\Entidades.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
