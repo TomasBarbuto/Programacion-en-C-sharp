@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "I01 - Sumador", "I01 - Sumador\I01 - Sumador.csproj", "{7ED162D9-DF7C-47E9-926D-F32B52BA507E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{E271D847-AEDE-488B-AA8B-7DE817A7A247}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ED162D9-DF7C-47E9-926D-F32B52BA507E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED162D9-DF7C-47E9-926D-F32B52BA507E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED162D9-DF7C-47E9-926D-F32B52BA507E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED162D9-DF7C-47E9-926D-F32B52BA507E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E271D847-AEDE-488B-AA8B-7DE817A7A247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E271D847-AEDE-488B-AA8B-7DE817A7A247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E271D847-AEDE-488B-AA8B-7DE817A7A247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E271D847-AEDE-488B-AA8B-7DE817A7A247}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B7A0497-BFD8-4219-9758-7A8F0F0B8E14}
+	EndGlobalSection
+EndGlobal

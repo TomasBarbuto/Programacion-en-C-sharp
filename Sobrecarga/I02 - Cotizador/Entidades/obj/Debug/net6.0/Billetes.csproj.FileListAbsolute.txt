@@ -1,0 +1,12 @@
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\bin\Debug\net6.0\Billetes.deps.json
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\bin\Debug\net6.0\Billetes.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\bin\Debug\net6.0\Billetes.pdb
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.csproj.AssemblyReference.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.AssemblyInfoInputs.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.AssemblyInfo.cs
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\refint\Billetes.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\Billetes.pdb
+C:\Users\RYZEN\source\repos\Sobrecarga\I02 - Cotizador\Entidades\obj\Debug\net6.0\ref\Billetes.dll

@@ -22,8 +22,6 @@ namespace I03___El_ejemplo_universal
             Console.WriteLine(e1.Mostrar());
             Console.WriteLine(e2.Mostrar());
             Console.WriteLine(e3.Mostrar());
-
-            Console.ReadKey();
         }
     }
 }

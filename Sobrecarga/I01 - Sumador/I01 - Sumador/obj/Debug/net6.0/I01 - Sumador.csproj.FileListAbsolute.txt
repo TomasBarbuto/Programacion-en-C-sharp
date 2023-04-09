@@ -1,0 +1,18 @@
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\I01 - Sumador.exe
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\I01 - Sumador.deps.json
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\I01 - Sumador.runtimeconfig.json
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\I01 - Sumador.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\I01 - Sumador.pdb
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\Entidades.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\bin\Debug\net6.0\Entidades.pdb
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.csproj.AssemblyReference.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.AssemblyInfoInputs.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.AssemblyInfo.cs
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.csproj.CoreCompileInputs.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.csproj.CopyComplete
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\refint\I01 - Sumador.dll
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.pdb
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\I01 - Sumador.genruntimeconfig.cache
+C:\Users\RYZEN\source\repos\Sobrecarga\I01 - Sumador\I01 - Sumador\obj\Debug\net6.0\ref\I01 - Sumador.dll
